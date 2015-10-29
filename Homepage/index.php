@@ -1,4 +1,4 @@
-<!DOCTYPE gtml>
+<!DOCTYPE html>
 <html>
 	<head>
 		<meta http-equiv='refresh' content ='3; url=home.php'>
@@ -7,7 +7,7 @@
 <div style="
     height: 200px;
     width: 400px;
-   
+
     position: fixed;
     top: 50%;
     left: 50%;
@@ -21,4 +21,3 @@
 	</div>
 	</body>
 	</html>
-	
